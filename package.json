@@ -1,0 +1,16 @@
+{
+  "name": "atom-one-dark-syntax",
+  "theme": "syntax",
+  "version": "1.7.1",
+  "description": "A dark syntax theme. Combination of Dark and Atom",
+  "keywords": [
+    "dark",
+    "blue",
+    "syntax"
+  ],
+  "repository": "https://github.com/alex-egorov/atom-one-dark-syntax.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
